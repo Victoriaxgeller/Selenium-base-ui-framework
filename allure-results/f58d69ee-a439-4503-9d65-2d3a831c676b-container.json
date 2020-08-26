@@ -1,0 +1,36 @@
+{
+  "uuid": "f58d69ee-a439-4503-9d65-2d3a831c676b",
+  "name": "ui.logout.LogoutTestByUrl",
+  "children": [
+    "f060ca53-b2e4-4123-9e15-9da52580fff6"
+  ],
+  "befores": [
+    {
+      "name": "setUpBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1598353192075,
+      "stop": 1598353192090
+    }
+  ],
+  "afters": [
+    {
+      "name": "closeBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1598353192350,
+      "stop": 1598353192350
+    }
+  ],
+  "links": [],
+  "start": 1598353192030,
+  "stop": 1598353192364
+}

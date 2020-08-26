@@ -1,0 +1,61 @@
+{
+  "name": "TEST EXAMPLE DESCRIPTION",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1598353192246,
+  "stop": 1598353192251,
+  "uuid": "f060ca53-b2e4-4123-9e15-9da52580fff6",
+  "historyId": "ac24c8d2a6548f1e5a4b529ccfec3891",
+  "fullName": "ui.logout.LogoutTestByUrl.testExampleForTestNg",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ui.logout.LogoutTestByUrl"
+    },
+    {
+      "name": "testClass",
+      "value": "ui.logout.LogoutTestByUrl"
+    },
+    {
+      "name": "testMethod",
+      "value": "testExampleForTestNg"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Selenium-ui-framework"
+    },
+    {
+      "name": "subSuite",
+      "value": "ui.logout.LogoutTestByUrl"
+    },
+    {
+      "name": "host",
+      "value": "Kordas-MacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "13762@Kordas-MacBook-Pro.local.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": []
+}
