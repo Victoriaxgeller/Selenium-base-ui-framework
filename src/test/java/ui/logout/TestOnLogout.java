@@ -30,11 +30,6 @@ public class TestOnLogout extends TestBase {
         }
     }
 
-    @Test
-    public void testFail() {
-        Assert.fail("f");
-    }
-
     @BeforeClass
     @Step("Actions performed before tests")
     private void beforeTests() {
